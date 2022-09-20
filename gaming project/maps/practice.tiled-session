@@ -96,6 +96,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "assets/red square.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "assets/solaria/Solaria Demo Pack Update 02/16x16/Tilesets/Solaria Demo Update 01.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -509,9 +513,9 @@
         }
     },
     "frame.defaultDuration": 200,
-    "last.exportedFilePath": "C:/Users/marti/gaming project/top down game/img",
-    "last.externalTilesetPath": "C:/Users/marti/gaming project/maps/assets/super retro world",
-    "last.imagePath": "C:/Users/marti/gaming project/maps/assets/solaria/Solaria Demo Pack Update 02/16x16/Tilesets",
+    "last.exportedFilePath": "C:/Users/marti/gaming project/top down game/data",
+    "last.externalTilesetPath": "C:/Users/marti/gaming project/maps/assets",
+    "last.imagePath": "C:/Users/marti/gaming project/maps/assets",
     "map.height": 40,
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
@@ -523,6 +527,7 @@
     ],
     "project": "practice.tiled-project",
     "recentFiles": [
+        "assets/red square.tsx",
         "assets/super retro world/red floor with orange edges.tsx",
         "assets/super retro world/vegetation.tsx",
         "assets/super retro world/more assets.tsx",
@@ -533,8 +538,7 @@
         "assets/solaria/Solaria Demo Pack Update 02/16x16/Tilesets/Solaria Demo Update 01.tsx",
         "assets/adventure pack/Overworld Tileset.tsx",
         "assets/RPG tileset/First Asset pack.tsx",
-        "assets/mystic woods/water decorations.tsx",
-        "assets/mystic woods/mystic stone walls.tsx"
+        "assets/mystic woods/water decorations.tsx"
     ],
     "tileset.lastUsedFilter": "All Files (*)",
     "tileset.lastUsedFormat": "tsx",
